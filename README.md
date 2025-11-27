@@ -94,7 +94,7 @@ https://sqlitebrowser.org/)
 - Engine option         : MySQL
 - Version               : 8.0.35
 - Template              : Free tier
-- DB instance class     : db.t2.micro
+- DB instance class     : db.t3.micro
 - Publicly accessible   : ***Yes
 - Master username       : admin
 - Master password       : ondia_13
